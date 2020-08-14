@@ -104,7 +104,7 @@ SHRP_PATH := device/meizu/m1971
 
 # Maintainer name *
 
-SHRP_MAINTAINER := e-Elio-o
+SHRP_MAINTAINER := Elio
 
 # Device codename *
 
